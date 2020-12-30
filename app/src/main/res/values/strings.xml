@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="repositories">Repositories</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search User</string>
+    <string name="delete">Delete</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="setting">Setting</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="about">About</string>
+</resources>
